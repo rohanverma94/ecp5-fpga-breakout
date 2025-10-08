@@ -1,2 +1,2 @@
 # ecp5-fpga-breakout
-Gerbers, BOM and designators for TInyTapeout ECP5 FPGA breakout board.
+Gerbers, BOM and designators for TinyTapeout ECP5 FPGA breakout board.
